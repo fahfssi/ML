@@ -1,0 +1,1 @@
+streamlit run "C:\Users\Windows\Desktop\pfa\multiple-disease-prediction-streamlit-app-main\multiple-disease-prediction-streamlit-app-main\app.py"
